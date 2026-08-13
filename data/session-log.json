@@ -2,8 +2,52 @@
   "metadata": {
     "language": "German",
     "learner_name": "Macus",
-    "total_sessions": 0
+    "total_sessions": 1
   },
-  "sessions": [],
-  "milestones": []
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-08-13",
+      "duration_minutes": 20,
+      "skills_practiced": [
+        "vocabulary",
+        "writing"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 6,
+      "accuracy": 0.667,
+      "score_breakdown": {
+        "vocabulary": 1.0,
+        "writing": 0.5
+      },
+      "topics_covered": [
+        "greetings",
+        "der/die/das articles",
+        "-chen/-lein neuter rule",
+        "sein conjugation",
+        "ein/eine gender agreement",
+        "self-introduction"
+      ],
+      "breakthroughs": [
+        "Independently generalized ein/eine gender agreement to a new word (Mann) without prompting",
+        "Completed a full multi-sentence self-introduction in German on day one"
+      ],
+      "focus_next_session": [
+        "Predicate adjective endings (guter vs guten)",
+        "Noun capitalization habit",
+        "Professions drop the article after sein",
+        "More der/die/das repetition for common nouns"
+      ],
+      "notes": "First-ever session (bootstrap). Strong start - quick pattern generalization across exercises (ein/eine, -chen rule). Main growth areas: adjective case endings and article/capitalization conventions.",
+      "achievements_earned": [],
+      "streak_day": 1
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-08-13",
+      "milestone": "Completed first Fluent session",
+      "session_id": "session-001"
+    }
+  ]
 }
