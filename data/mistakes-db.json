@@ -1,8 +1,101 @@
 {
   "metadata": {
-    "last_updated": "2026-08-12",
-    "total_patterns_tracked": 0,
+    "last_updated": "2026-08-13",
+    "total_patterns_tracked": 4,
     "language": "German"
   },
-  "error_patterns": {}
+  "error_patterns": {
+    "ein_eine_gender_agreement": {
+      "category": "grammar",
+      "subcategory": "indefinite_article_gender",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.6,
+      "last_seen": "2026-08-13",
+      "last_occurred": "2026-08-13",
+      "next_review": "2026-08-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ich bin ein Frau",
+          "correct": "Ich bin eine Frau",
+          "context": "self-description exercise, feminine noun after sein",
+          "date": "2026-08-13"
+        }
+      ],
+      "notes": "Learner self-corrected immediately when asked to retype, and independently generalized the rule to a new word (ein Mann) right after."
+    },
+    "noun_capitalization": {
+      "category": "spelling",
+      "subcategory": "capitalization",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-08-13",
+      "last_occurred": "2026-08-13",
+      "next_review": "2026-08-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "mein name ist Macus / heute ist ein guten tag",
+          "correct": "Mein Name ist Macus / Heute ist ein guter Tag",
+          "context": "self-introduction writing task",
+          "date": "2026-08-13"
+        }
+      ],
+      "notes": ""
+    },
+    "predicate_adjective_ending": {
+      "category": "grammar",
+      "subcategory": "adjective_declension",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.65,
+      "last_seen": "2026-08-13",
+      "last_occurred": "2026-08-13",
+      "next_review": "2026-08-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "ein guten Tag",
+          "correct": "ein guter Tag",
+          "context": "self-introduction writing task, masculine nominative after ein",
+          "date": "2026-08-13"
+        }
+      ],
+      "notes": ""
+    },
+    "profession_no_article": {
+      "category": "grammar",
+      "subcategory": "predicate_noun_article",
+      "description": "",
+      "severity": "minor",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-08-13",
+      "last_occurred": "2026-08-13",
+      "next_review": "2026-08-14",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "Ich bin ein Fotograf, Pilot, und Biologe",
+          "correct": "Ich bin Fotograf, Pilot und Biologe",
+          "context": "self-introduction writing task, professions after sein",
+          "date": "2026-08-13"
+        }
+      ],
+      "notes": ""
+    }
+  }
 }
