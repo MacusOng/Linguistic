@@ -1,24 +1,33 @@
 {
   "metadata": {
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "language": "German",
     "tracking_started": "2026-08-12"
   },
   "overall_stats": {
-    "total_sessions": 0,
-    "total_exercises": 0,
-    "total_correct": 0,
-    "total_incorrect": 0,
-    "accuracy_rate": 0.0,
-    "total_study_minutes": 0,
-    "average_session_duration": 0
+    "total_sessions": 1,
+    "total_exercises": 6,
+    "total_correct": 4,
+    "total_incorrect": 2,
+    "accuracy_rate": 0.667,
+    "total_study_minutes": 20,
+    "average_session_duration": 20
   },
-  "accuracy_trend": [],
+  "accuracy_trend": [
+    {
+      "date": "2026-08-13",
+      "accuracy": 0.667,
+      "exercises": 6
+    }
+  ],
   "skill_progress": {
     "writing": {
-      "sessions": 0,
-      "accuracy": 0.0,
-      "last_practiced": null
+      "sessions": 1,
+      "accuracy": 0.5,
+      "last_practiced": "2026-08-13",
+      "exercises_completed": 4,
+      "correct_count": 2,
+      "incorrect_count": 2
     },
     "speaking": {
       "sessions": 0,
@@ -26,9 +35,12 @@
       "last_practiced": null
     },
     "vocabulary": {
-      "sessions": 0,
-      "accuracy": 0.0,
-      "last_practiced": null
+      "sessions": 1,
+      "accuracy": 1.0,
+      "last_practiced": "2026-08-13",
+      "exercises_completed": 2,
+      "correct_count": 2,
+      "incorrect_count": 0
     },
     "reading": {
       "sessions": 0,
@@ -41,5 +53,12 @@
       "last_practiced": null
     }
   },
-  "weekly_summary": []
+  "weekly_summary": [
+    {
+      "week_start": "2026-08-10",
+      "sessions": 1,
+      "total_minutes": 20,
+      "accuracy": 0.667
+    }
+  ]
 }
