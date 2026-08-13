@@ -1,0 +1,75 @@
+{
+  "learner": {
+    "name": "Macus",
+    "native_language": "English",
+    "other_languages": [
+      "Mandarin Chinese",
+      "Taiwanese Hokkien",
+      "Malay/Indonesian",
+      "Hokkien",
+      "Hainanese",
+      "Cantonese",
+      "Vietnamese (basic)",
+      "Thai (basic)"
+    ],
+    "target_language": "German",
+    "current_level": "A1",
+    "target_level": "B1",
+    "daily_goal_minutes": 30,
+    "learning_style": "conversational",
+    "motivation": "personal"
+  },
+  "profile_created": "2026-08-12",
+  "last_updated": "2026-08-12",
+  "current_streak_days": 0,
+  "total_sessions": 0,
+  "total_study_minutes": 0,
+  "skills": {
+    "writing": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "speaking": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "vocabulary": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "reading": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "listening": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    }
+  },
+  "focus_areas": [],
+  "achievements": [
+    {
+      "id": "profile_created",
+      "name": "Getting Started",
+      "earned_date": "2026-08-12",
+      "description": "Created your learning profile"
+    }
+  ],
+  "preferences": {
+    "difficulty_preference": "adaptive",
+    "exercise_types_preferred": ["conversation", "writing", "quick_drills"],
+    "feedback_style": "immediate_with_explanation",
+    "gamification_enabled": true,
+    "use_emojis": true
+  }
+}
