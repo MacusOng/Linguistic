@@ -1,0 +1,31 @@
+# Learning data (learner-profile.json, progress-db.json, etc.) IS committed
+# on purpose in this repo: sessions run in ephemeral cloud containers, so the
+# git history is the only persistence layer. Only backups/temp files are ignored.
+/data/*.json.backup-*
+.backups/
+
+# Personal scratch files
+myfile.txt
+
+# System files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Temp files
+.tmp/
+temp/
+*.json.tmp
